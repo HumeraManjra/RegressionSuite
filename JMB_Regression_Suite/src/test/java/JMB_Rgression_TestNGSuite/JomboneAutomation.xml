@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="JMB  Regression Suite">    
+ 	 			<parameter name="email"  value="test@mailinator.com"/>
+ 	 			<parameter name="password"  value="test34#y;"/>	
+				
+ 	 <test name="JMB_COUserMgt_001">     			
+				 	<classes>
+							<class name="JMB_Regression_TestNGSuite.JMB_COUserMgt_001"/>	
+					</classes>		
+		  </test> 		  
+		   	 <test name="JMB_COUserMgt_002">     			
+				 	<classes>
+							<class name="JMB_Regression_TestNGSuite.JMB_COUserMgt_002"/>	
+					</classes>		
+		  </test> 	 	  
+		  		   	 <test name="JMB_COUserMgt_003">     			
+				 	<classes>
+							<class name="JMB_Regression_TestNGSuite.JMB_COUserMgt_003"/>	
+					</classes>		
+		  </test> 	   
+		  		  		   	 <test name="JMB_COUserMgt_004">     			
+				 	<classes>
+							<class name="JMB_Regression_TestNGSuite.JMB_COUserMgt_004"/>	
+					</classes>		
+		  </test> 	 			
+		  		   	 <test name="JMB_COUserMgt_005">     			
+				 	<classes>
+							<class name="JMB_Regression_TestNGSuite.JMB_COUserMgt_005"/>	
+					</classes>		
+		  </test> 	 		
+		  		  		   	 <test name="JMB_COUserMgt_006">     			
+				 	<classes>
+							<class name="JMB_Regression_TestNGSuite.JMB_COUserMgt_006"/>	
+					</classes>		
+		  </test> 	 	
+		  		  		   	 <test name="JMB_COUserMgt_007">     			
+				 	<classes>
+							<class name="JMB_Regression_TestNGSuite.JMB_COUserMgt_007"/>	
+					</classes>		
+		  </test> 	 
+		  		  		   	 <test name="JMB_COUserMgt_008">     			
+				 	<classes>
+							<class name="JMB_Regression_TestNGSuite.JMB_COUserMgt_008"/>	
+					</classes>		
+		  </test> 	 
+		  		  		   	 <test name="JMB_COUserMgt_009">     			
+				 	<classes>
+							<class name="JMB_Regression_TestNGSuite.JMB_COUserMgt_009"/>	
+					</classes>		
+		  </test> 
+		  		  		   	 <test name="JMB_COUserMgt_010">     			
+				 	<classes>
+							<class name="JMB_Regression_TestNGSuite.JMB_COUserMgt_010"/>	
+					</classes>		
+		  </test> 	 	 
+			  		  	<test name="JMB_COUserMgt_011">     			
+				 	<classes>
+							<class name="JMB_Regression_TestNGSuite.JMB_COUserMgt_011"/>	
+					</classes>		
+		  </test> 	
+		  		  		  <test name="JMB_COUserMgt_012">     			
+				 	<classes>
+							<class name="JMB_Regression_TestNGSuite.JMB_COUserMgt_012"/>	
+					</classes>	
+		</test> 	
+						<test name="JMB_COUserMgt_013">     			
+				 	<classes>
+							<class name="JMB_Regression_TestNGSuite.JMB_COUserMgt_013"/>	
+					</classes>		
+		  </test> 	
+						<test name="JMB_COUserMgt_014">     			
+				 	<classes>
+							<class name="JMB_Regression_TestNGSuite.JMB_COUserMgt_014"/>	
+					</classes>		
+		  </test> 	
+		  				<test name="JMB_COUserMgt_015">     			
+				 	<classes>
+							<class name="JMB_Regression_TestNGSuite.JMB_COUserMgt_015"/>	
+					</classes>		
+		  </test> 	
+		  		  		<test name="JMB_COUserMgt_016">     			
+				 	<classes>
+							<class name="JMB_Regression_TestNGSuite.JMB_COUserMgt_016"/>	
+					</classes>		
+		  </test>
+		  		  	<test name="JMB_COUserMgt_017">     			
+				 	<classes>
+							<class name="JMB_Regression_TestNGSuite.JMB_COUserMgt_017"/>	
+					</classes>		
+		  </test>  
+		  	  
+</suite> 
+
